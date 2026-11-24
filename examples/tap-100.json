@@ -1,0 +1,32 @@
+{
+  "format": "TapPilot",
+  "schema": 1,
+  "plan": {
+    "id": "example-100-taps",
+    "name": "100回タップの例",
+    "cycles": 100,
+    "timeLimitMs": 0,
+    "startDelayMs": 2000,
+    "cycleGapMs": 0,
+    "timingJitterMs": 0,
+    "positionJitterPx": 0,
+    "fastBatch": true,
+    "keepScreenOn": true,
+    "volumeStop": true,
+    "steps": [
+      {
+        "kind": "TAP",
+        "name": "指定位置をタップ",
+        "enabled": true,
+        "x": 0.5,
+        "y": 0.72,
+        "endX": 0.5,
+        "endY": 0.25,
+        "durationMs": 5,
+        "gapMs": 40,
+        "repeats": 1,
+        "points": []
+      }
+    ]
+  }
+}
