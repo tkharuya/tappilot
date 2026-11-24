@@ -1,0 +1,28 @@
+{
+  "applicationId": "jp.tappilot.app",
+  "version": "1.0.0",
+  "minSdk": 26,
+  "targetSdk": 36,
+  "apkSha256": "19cbf5c4931df1dfc21705bd7938e186c6b8fcfaa192446c7156beb9d9871a90",
+  "hostTestsPassed": 20,
+  "androidRuntimeTestsCompleted": false,
+  "sourceSha256": {
+    "app/src/main/AndroidManifest.xml": "d86b56d500f82ee63427fb3ac8b937f87536b318fe3d38c08cd3f86de9226c0c",
+    "app/src/main/java/jp/tappilot/app/ControlReceiver.java": "60110176c272df26022db87a2dda318b0137a937920e26a66518c9213653fa39",
+    "app/src/main/java/jp/tappilot/app/GesturePort.java": "5d5e177d77bb8517070742246e512483596a257f26dcf75b937221cfd0040d4f",
+    "app/src/main/java/jp/tappilot/app/MainActivity.java": "aeb617dc8b7384f685474cfb3c559130fc5c98a3eed47de912617a40ef690fc4",
+    "app/src/main/java/jp/tappilot/app/OverlayController.java": "2a470d9b58fa0f3182dd4a1aa51f6f938e0be991355b6f345e3d43c283c66507",
+    "app/src/main/java/jp/tappilot/app/Plan.java": "28b2b74b0a2ae084bf211d79946de21b5688e9d56d59e1f54f5946065ea7cdec",
+    "app/src/main/java/jp/tappilot/app/PlanCodec.java": "fd8460ffc6853e9a06e65e585bc12d88481bfdb5b6955c130dacc88e1718dd84",
+    "app/src/main/java/jp/tappilot/app/PlanStore.java": "11928b2a4ab751dd643610e80da0ae1938f6e045a96575e9ab79a0e12ee5a9b4",
+    "app/src/main/java/jp/tappilot/app/PlaygroundActivity.java": "dcba2dfbfcd94f350c68f39a345a388c850b4e7adf13d2db9b02e8b6208abf22",
+    "app/src/main/java/jp/tappilot/app/Runner.java": "b21f4354239c2c157eb268eaaeb529ca39e4a05eb9f81580ebd90cea066bebaf",
+    "app/src/main/java/jp/tappilot/app/TapService.java": "cbdedcb9b508abc37844bf966aa42239afaee3c23a409dd128ccc5fd7307f4b4",
+    "app/src/main/java/jp/tappilot/app/Ui.java": "69147a79a13fb42cc6f503dd6eff34493320b7aba7fc84fa7e9ddd55b671f6f3",
+    "app/src/main/res/drawable/ic_launcher.xml": "2e81ab74ec8078de199d0a3c66fdad4933bf6008e3a7caa766b020f7592d74ad",
+    "app/src/main/res/drawable/ic_notification.xml": "cc48fc0ee58f376a1b9b8a1e988bfad9f11d0e03285f2285df2ba2673937d461",
+    "app/src/main/res/values/strings.xml": "e5268e681532daf2c39777f25597c220f27fdbdea664ebd08b03b8755788108e",
+    "app/src/main/res/values/styles.xml": "209dd9441954da0f9c4cb6e920aff7345e23014100934bd64f1f6ca1b673c980",
+    "app/src/main/res/xml/accessibility_service.xml": "38510ad4c1f423fd6059bca4bfc5509c16f11793ac287f5952cc8be7f4272be2"
+  }
+}
